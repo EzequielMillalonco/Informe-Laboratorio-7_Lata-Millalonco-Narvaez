@@ -33,10 +33,27 @@ MATERIALES
 **1.- Construya en el protoboard el circuito mostrado en la Figura 1.**
 
     a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . 
-    Anote los valores pico de las ondas observadas.
+    Anote los valores pico de las ondas observadas. 
+    (Las imagenes representan los valores de voltaje al variar la frecuencia de manera ascendente)
+
+![1 1](https://user-images.githubusercontent.com/93396250/152887984-268a7c4a-1ad7-43e4-b606-665641626162.JPG)
+![1 2](https://user-images.githubusercontent.com/93396250/152887986-09f8c8f5-a4a7-46bc-be27-0c41bd6d899f.JPG)
+![1 3](https://user-images.githubusercontent.com/93396250/152887988-8f6271f5-bc78-4027-a545-818b2c1b4f96.JPG)
+![1 4](https://user-images.githubusercontent.com/93396250/152887992-fd935332-0421-45d6-9774-9fb8844d139c.JPG)
+![1 5](https://user-images.githubusercontent.com/93396250/152887993-67f7ae5b-eb5d-4ef9-a085-44cb55c2bb5c.JPG)
+![1 6](https://user-images.githubusercontent.com/93396250/152888012-4fbdfa58-030a-440e-910b-42eb36eecc9c.JPG)
 
     b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . 
     Anote los resultados.
+    (Las imagenes representan los valores de voltaje al variar la frecuencia de manera ascendente)
+
+![2 1](https://user-images.githubusercontent.com/93396250/152888078-359b9c10-7e35-4582-8b88-cab2ef1876ae.JPG)
+![2 2](https://user-images.githubusercontent.com/93396250/152888082-f28abf0d-8347-4543-9106-8f84f88f5d4c.JPG)
+![2 3](https://user-images.githubusercontent.com/93396250/152888087-ccd9ba26-eb08-4188-90d3-c242dfbca420.JPG)
+![2 4](https://user-images.githubusercontent.com/93396250/152888100-847eb8da-bb77-408e-9ca6-0c13d23777ec.JPG)
+![2 5](https://user-images.githubusercontent.com/93396250/152888106-e6562226-bcc6-4392-af31-1463158eaeee.JPG)
+![2 6](https://user-images.githubusercontent.com/93396250/152888133-14558670-7597-4e91-a3eb-24efe14b76e4.JPG)
+
 
     c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 
     0, 10, 50, 100, 500, 1000. Anote los resultados.
