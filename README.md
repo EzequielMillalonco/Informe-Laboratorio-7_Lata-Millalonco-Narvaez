@@ -17,6 +17,15 @@
 
 ## 2. MARCO TEÓRICO
 
+![Untitled (27)](https://user-images.githubusercontent.com/93396250/152709137-30415d58-0149-4145-a19f-2d20903be30b.jpg)
+
+![Untitled (28)](https://user-images.githubusercontent.com/93396250/152709131-dca58399-6a27-435c-ab09-526677fc4020.jpg)
+
+![Untitled (29)](https://user-images.githubusercontent.com/93396250/152709127-cbe6cc60-25a5-448a-8b7f-01204c0383e8.jpg)
+
+MATERIALES
+
+![image](https://user-images.githubusercontent.com/93396250/152709166-2ee28922-3ce2-4213-a0f4-7e7ecf1770c2.png)
 
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
