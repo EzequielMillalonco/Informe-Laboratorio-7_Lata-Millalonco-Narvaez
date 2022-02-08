@@ -71,13 +71,18 @@ MATERIALES
     a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . 
     Anote los valores pico de las ondas observadas.
 
+![4](https://user-images.githubusercontent.com/93834732/152911512-88afb6e9-2362-4fba-80fe-94f4a440a020.GIF)
+
     b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . 
     Anote los resultados.
+
+![5](https://user-images.githubusercontent.com/93834732/152911605-1fbaba34-9a8b-4e89-8bfd-39aa7da04bea.GIF)
+
 
     c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 
     0, 10, 50, 100, 500, 1000. Anote los resultados.
 
-
+![6](https://user-images.githubusercontent.com/93834732/152914778-9ae80314-646b-408a-a0fe-7dbdcefbf12d.GIF)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -87,6 +92,12 @@ MATERIALES
    diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
    comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
+
+En este apartado podemos observar la diferencia entre los voltajes y corrientes cuando se usan capacitores y bobinas, una de las diferencias más evidentes es cuando la frecuencia es de 0 Hz, con condensadores llegamos a tener voltaje mientras que cuando se usan bobinas el voltaje es de 0 y así mismo la corriente.
+
+![2](https://user-images.githubusercontent.com/93834732/152910177-9c209f9a-7876-4811-a26e-2c8d6ca4b64c.GIF)
+
+![1](https://user-images.githubusercontent.com/93834732/152910198-e690747a-375b-4602-b251-cbc449ec43d2.GIF)
 
 **7.5 Preguntas**
 
