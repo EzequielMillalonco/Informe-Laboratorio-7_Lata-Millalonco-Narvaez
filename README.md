@@ -58,6 +58,14 @@ MATERIALES
     c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 
     0, 10, 50, 100, 500, 1000. Anote los resultados.
 
+![3 1](https://user-images.githubusercontent.com/93396250/152895946-1afa94a0-4e7a-417e-a6e3-d3cf8b2a3264.JPG)
+![3 2](https://user-images.githubusercontent.com/93396250/152895951-1e1dd604-c37b-467d-9f16-1e9f4869dd1b.JPG)
+![3 3](https://user-images.githubusercontent.com/93396250/152895953-4b578c3b-1c65-460f-84c9-f7c30b8ca494.JPG)
+![3 4](https://user-images.githubusercontent.com/93396250/152895955-08c60fee-0186-4fa8-b395-ee5da121460d.JPG)
+![3 5](https://user-images.githubusercontent.com/93396250/152895958-6bf22702-18f8-4ed1-85af-c7afad490457.JPG)
+![3 6](https://user-images.githubusercontent.com/93396250/152895965-f42b266e-0f57-4a2e-95a7-eaaf3e4d302f.JPG)
+
+
 **2.- Construya el circuito mostrado en la Figura 2**
 
     a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . 
