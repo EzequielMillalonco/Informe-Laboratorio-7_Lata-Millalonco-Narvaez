@@ -3,16 +3,15 @@
 ## 1. OBJETIVOS
  
         General: 
-
-
+Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 
         Específicos: 
  
-1.  
+1.  Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
         
-2. 
+2.  Verificar las combinaciones serie y paralelo de bobinas y capacitores.
         
-3. 
+3. Familiarizarse con el uso de instrumentos de medida.
         
 
 ## 2. MARCO TEÓRICO
@@ -103,20 +102,16 @@ En este apartado podemos observar la diferencia entre los voltajes y corrientes 
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 	
-	.
+	La bobina realiza un cortocircuito, a la par que el capacitor trabajara como un acumulador de carga
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-	.
+	La bobina genera el campo magnetico que va variando en el tiempo de manera continua, mientras que el capacitor se lo tomara como un circuito abierto
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 	
-	.
+	Al verse afectados los valores, la reactancia inductiva de igual manera, en fin, esto disminuira la corriente y variara el valor de V0 y si el cambio se da en los capacitores se aumenta el valor de los capacitores y variara el voltaje de V0 sumado a la resistencia e intensidad no se veran afectadas
 	
-4.- ¿Qué son los valores eficaces de voltaje y corriente?
-
-	.
-
 ## 5. VIDEO
 
         Link del video ¨Informe de laboratorio 7¨ en donde.
@@ -127,11 +122,11 @@ En este apartado podemos observar la diferencia entre los voltajes y corrientes 
 
 ## 6. CONCLUSIONES
 
-   1. 
+   1. Se logró concluir que los valores pico, son muy variables en ondas sinusoidales y por ende tenemos valores de corriente y voltaje variables, que demoran en estabilizar para medirse.
         
-   2. 
+   2. Pudimos observar y comprobar la eficacia de utilizar un osciloscopio, para mediciones en ondas sinusoidales y corriente AC
         
-   3. 
+   3. Se comprobo la teoria sobre, capacitores y bobinas, logrando interpretar valores de corriente y voltaje variables en un circuito AC
 
 
 ## 7. BIBLIOGRAFÍA
