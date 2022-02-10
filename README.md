@@ -31,6 +31,9 @@ MATERIALES
 
 **1.- Construya en el protoboard el circuito mostrado en la Figura 1.**
 
+![image](https://user-images.githubusercontent.com/93396250/153428861-18366da6-ad2e-441f-be59-e1d90b2895a7.png)
+
+
     a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . 
     Anote los valores pico de las ondas observadas. 
     (Las imagenes representan los valores de voltaje al variar la frecuencia de manera ascendente)
@@ -66,6 +69,8 @@ MATERIALES
 
 
 **2.- Construya el circuito mostrado en la Figura 2**
+
+![image](https://user-images.githubusercontent.com/93396250/153428903-63efc494-0b5d-44f8-8a1c-bfb793b9153f.png)
 
     a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . 
     Anote los valores pico de las ondas observadas.
