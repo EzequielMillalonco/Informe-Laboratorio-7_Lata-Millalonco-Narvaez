@@ -136,5 +136,5 @@ https://youtu.be/JjmurGIvkD4
 
 ## 7. BIBLIOGRAFÍA
 
-Alulema Darwin. Guías Tercer Parcial https://classroom.google.com/u/0/w/NDEyOTg4NDk2MDQx/t/all?hl=es
+Alulema Darwin. Guías Tercer Parcial https://drive.google.com/file/d/172KKkHM1atZPr1Z069d2S9WYJns28DT9/view
 
