@@ -114,11 +114,11 @@ En este apartado podemos observar la diferencia entre los voltajes y corrientes 
 	
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 7¨ en donde.
+        Link del video ¨Informe de laboratorio 7¨ en donde se realiza la construcción de ambos circuitos.
  
- https://youtu.be/iyJIL712wRU
+https://youtu.be/JjmurGIvkD4
  
-[![Presentación Informe 1](https://img.youtube.com/vi/iyJIL712wRU/0.jpg)](https://www.youtube.com/watch?v=iyJIL712wRU)
+[![Presentación Informe 1](https://img.youtube.com/vi/JjmurGIvkD4/0.jpg)](https://www.youtube.com/watch?v=JjmurGIvkD4)
 
 ## 6. CONCLUSIONES
 
